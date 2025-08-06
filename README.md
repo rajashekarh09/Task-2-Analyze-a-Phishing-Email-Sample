@@ -6,7 +6,9 @@ This project presents an analysis of a sample phishing email. The goal is to ide
 
 # Objective
 --> Detect suspicious indicators in a phishing email.
+
 --> Analyze email headers using online tools.
+
 --> Summarize red flags such as spoofed addresses, suspicious links, and malware attachments.
 
 # Tools Used
