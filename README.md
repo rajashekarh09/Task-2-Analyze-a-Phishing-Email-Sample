@@ -13,24 +13,35 @@ This project presents an analysis of a sample phishing email. The goal is to ide
 
 # Tools Used
 --> Email client or text viewer (for email content)
+
 --> MxToolbox Email Header Analyzer
+
 --> Browser (to inspect and hover over links)
+
 --> Microsoft Word or Google Docs (for writing the report)
 
 # Steps Followed
 --> Collected a sample phishing email.
+
 --> Verified the sender’s address for spoofing.
+
 --> Used an email header analyzer to check SPF, DKIM, and IP origin.
+
 --> Identified malicious links and attachments in the body.
+
 --> Highlighted urgency-based or threatening language.
+
 --> Noted spelling and grammar issues.
+
 --> Compiled a detailed report of phishing indicators.
 
  # Deliverable
 --> Phishing_Email_Analysis_Report.docx
+
 --> A comprehensive document listing:
---> Email header findings
---> Suspicious email content
---> Table of phishing indicators
---> Final conclusion on threat level
+
+  1. Email header findings
+  2. Suspicious email content
+  3. Table of phishing indicators
+  4. Final conclusion on threat level
 
